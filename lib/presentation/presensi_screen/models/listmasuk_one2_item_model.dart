@@ -1,1 +1,0 @@
-class ListmasukOne2ItemModel {}

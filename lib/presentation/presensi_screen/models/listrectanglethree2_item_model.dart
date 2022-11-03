@@ -1,1 +1,0 @@
-class Listrectanglethree2ItemModel {}
